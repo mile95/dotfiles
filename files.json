@@ -1,4 +1,6 @@
 {
+  "keymap.lua": "~/.config/nvim/lua/keymap.lua",
+  "plugins.lua": "~/.config/nvim/lua/plugins.lua",
 	"init.lua": "~/.config/nvim/init.lua",
 	".zshrc": "~/.zshrc"
 }

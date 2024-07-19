@@ -1,4 +1,5 @@
 require("plugins")
+require("keymap")
 
 vim.cmd("colorscheme apprentice") -- set color theme
 vim.wo.relativenumber = true -- use relative numbers
