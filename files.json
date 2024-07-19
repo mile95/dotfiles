@@ -1,0 +1,4 @@
+{
+	"init.lua": "~/.config/nvim/init.lua",
+	".zshrc": "~/.zshrc"
+}
