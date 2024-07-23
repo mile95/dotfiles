@@ -1,6 +1,8 @@
 require("plugins")
 require("keymap")
 
+vim.cmd("language en_US") -- set language to english
+
 vim.cmd("colorscheme apprentice") -- set color theme
 vim.wo.relativenumber = true -- use relative numbers
 vim.opt.tabstop = 2 -- set tab size to 2 spaces
